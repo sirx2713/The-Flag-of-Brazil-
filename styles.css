@@ -1,0 +1,13 @@
+h1{
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+#main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 1200px;
+    background-color: #009739;
+}
